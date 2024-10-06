@@ -27,6 +27,6 @@
 
 ## Licensing Information
 
-This project is licensed under the GNU General Public License version 3.0. For more details, please refer to the [LICENSE](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/LICENSE) file.
+This project is licensed under the GNU General Public License version 3.0. For more details, please refer to the [LICENSE](https://github.com/mustafa4411/Town-of-Roles/commit/718994ee5b6f2c909f2a26cf33f71476daa6079c) file.
 
 ---
